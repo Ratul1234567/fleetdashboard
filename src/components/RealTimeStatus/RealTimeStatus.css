@@ -1,0 +1,26 @@
+/* src/components/RealTimeStatus/RealTimeStatus.css */
+.real-time-status {
+    padding: 20px;
+    background-color: #e6f7ff;
+    border-radius: 8px;
+  }
+  
+  .real-time-status h2 {
+    font-size: 24px;
+    color: #31708f;
+  }
+  
+  .status-item {
+    background-color: #d9edf7;
+    padding: 10px;
+    border-radius: 5px;
+    color: #31708f;
+    margin-bottom: 10px;
+  }
+  
+  .status-empty {
+    color: #888;
+    font-size: 18px;
+    text-align: center;
+  }
+  

@@ -1,0 +1,16 @@
+/* src/App.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h2, h5 {
+  font-weight: 600;
+}
+
+.app-container {
+  padding: 20px;
+}

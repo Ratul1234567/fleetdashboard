@@ -1,0 +1,25 @@
+/* src/components/BatteryAlert/BatteryAlert.css */
+.battery-alert {
+  padding: 20px;
+  background-color: #ffe6e6;
+  border-radius: 8px;
+}
+
+.battery-alert h2 {
+  font-size: 24px;
+  color: #d9534f;
+}
+
+.alert-item {
+  background-color: #f8d7da;
+  padding: 10px;
+  border-radius: 5px;
+  color: #d9534f;
+  margin-bottom: 10px;
+}
+
+.no-alert {
+  font-size: 18px;
+  color: #5cb85c;
+  text-align: center;
+}
